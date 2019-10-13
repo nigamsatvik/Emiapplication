@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="heading">EMICALC</string>
+    <string name="button">CALCULATE</string>
+    <string name="rate">Rate</string>
+    <string name="principal">Amount</string>
+    <string name="time">Tenure</string>
+
+</resources>
